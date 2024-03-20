@@ -1,7 +1,7 @@
 # Junior Software developer
-+ Technically minded and detail-oriented professional with proven ability to design, develop, and maintain efficient and scalable software solutions to improve performance and increase user satisfaction.
-+ Proficient in utilising modern development tools and frameworks to streamline workflow processes. Skilled in translating design mock-ups into pixel-perfect, functional interfaces, whilst adhering to best practices in frontend development.
-+  Adept at collaborating with cross-functional teams to deliver high-quality projects on time. Committed to continuous learning and staying abreast of emerging technologies to contribute effectively to innovative projects and collaborative teams.
++ Technically minded and detail-oriented professional with proven ability to design, develop, and maintain efficient and scalable software solutions to improve performance and increase user satisfaction.</br>
++ Proficient in utilising modern development tools and frameworks to streamline workflow processes. Skilled in translating design mock-ups into pixel-perfect, functional interfaces, whilst adhering to best practices in frontend development.</br>
++  Adept at collaborating with cross-functional teams to deliver high-quality projects on time. Committed to continuous learning and staying abreast of emerging technologies to contribute effectively to innovative projects and collaborative teams.</br> 
 +  Out-of-the-box thinker with exceptional interpersonal and organisational skills.
 
 
