@@ -10,7 +10,7 @@
 - 👀 My interest leans towards software development, web app development, and innovative applications.
 - 🌱Works with modern Frameworks/stacks.
 - ✨ Languages:  HTML, CSS, JavaScript, python C# ...
-- ✨ Framework: React
+- ✨ Framework: Angular
 - 📫 you can reach me at okpanachiVictor@gmail.com ...
 
 <!---
